@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "477918091885",
+    "firebase_url": "https://agriculture-baf5b.firebaseio.com",
+    "project_id": "agriculture-baf5b",
+    "storage_bucket": "agriculture-baf5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477918091885:android:5e02fba65fb715ee",
+        "android_client_info": {
+          "package_name": "com.tutsplus.code.android.tutsplusupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477918091885-22cqu81s671qrblcl6bp82u1po7ljvsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOdG1KK1j5HqCb_BRR28g2nNyQsfhzlLY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
